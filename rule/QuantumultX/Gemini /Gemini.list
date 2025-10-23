@@ -15,6 +15,7 @@ HOST-SUFFIX,deepmind.google,Gemini
 HOST-SUFFIX,gemini.google.com,Gemini
 HOST-SUFFIX,generativeai.google,Gemini
 HOST-SUFFIX,proactivebackend-pa.googleapis.com,Gemini
+HOST-SUFFIX,generativelanguage.googleapis.com,Gemini
 HOST-SUFFIX,apis.google.com,Gemini
 HOST-KEYWORD,colab,Gemini
 HOST-KEYWORD,developerprofiles,Gemini
