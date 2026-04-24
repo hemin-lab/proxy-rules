@@ -4,8 +4,8 @@
 # UPDATED: 2026-04-24
 # HOST: 0
 # HOST-KEYWORD: 0
-# HOST-SUFFIX: 37
-# TOTAL: 37
+# HOST-SUFFIX: 45
+# TOTAL: 45
 
 # Adult Video Platforms
 HOST-SUFFIX,phncdn.com,NSFW
@@ -51,3 +51,15 @@ HOST-SUFFIX,konachan.com,NSFW
 HOST-SUFFIX,sankakucomplex.com,NSFW
 HOST-SUFFIX,chan.sankakucomplex.com,NSFW
 HOST-SUFFIX,idol.sankakucomplex.com,NSFW
+
+# JAV / Asian Adult Databases
+HOST-SUFFIX,sukebei.nyaa.si,NSFW
+HOST-SUFFIX,javdb.com,NSFW
+HOST-SUFFIX,javlibrary.com,NSFW
+HOST-SUFFIX,missav.ws,NSFW
+HOST-SUFFIX,sehuatang.org,NSFW
+
+# Torrent / Magnet Search
+HOST-SUFFIX,limbopro.com,NSFW
+HOST-SUFFIX,heimacili.org,NSFW
+HOST-SUFFIX,xingqiu.icu,NSFW
