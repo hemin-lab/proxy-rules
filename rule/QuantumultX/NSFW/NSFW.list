@@ -1,0 +1,53 @@
+# NAME: NSFW
+# AUTHOR: heminwon
+# REPO: https://github.com/heminwon/proxy-rules
+# UPDATED: 2026-04-24
+# HOST: 0
+# HOST-KEYWORD: 0
+# HOST-SUFFIX: 37
+# TOTAL: 37
+
+# Adult Video Platforms
+HOST-SUFFIX,phncdn.com,NSFW
+HOST-SUFFIX,pornhub.com,NSFW
+HOST-SUFFIX,pornhubpremium.com,NSFW
+HOST-SUFFIX,xvideos.com,NSFW
+HOST-SUFFIX,xhamster.com,NSFW
+HOST-SUFFIX,redtube.com,NSFW
+HOST-SUFFIX,youporn.com,NSFW
+HOST-SUFFIX,tube8.com,NSFW
+HOST-SUFFIX,spankbang.com,NSFW
+HOST-SUFFIX,xnxx.com,NSFW
+HOST-SUFFIX,tnaflix.com,NSFW
+HOST-SUFFIX,eporner.com,NSFW
+HOST-SUFFIX,beeg.com,NSFW
+HOST-SUFFIX,hclips.com,NSFW
+HOST-SUFFIX,txxx.com,NSFW
+
+# Creator / Subscription Platforms
+HOST-SUFFIX,onlyfans.com,NSFW
+HOST-SUFFIX,fansly.com,NSFW
+HOST-SUFFIX,manyvids.com,NSFW
+HOST-SUFFIX,fancentro.com,NSFW
+
+# Live Cam Platforms
+HOST-SUFFIX,chaturbate.com,NSFW
+HOST-SUFFIX,stripchat.com,NSFW
+HOST-SUFFIX,livejasmin.com,NSFW
+HOST-SUFFIX,myfreecams.com,NSFW
+HOST-SUFFIX,cam4.com,NSFW
+HOST-SUFFIX,bongacams.com,NSFW
+HOST-SUFFIX,camsoda.com,NSFW
+
+# Image / Illustration Platforms
+HOST-SUFFIX,nhentai.net,NSFW
+HOST-SUFFIX,e-hentai.org,NSFW
+HOST-SUFFIX,exhentai.org,NSFW
+HOST-SUFFIX,rule34.xxx,NSFW
+HOST-SUFFIX,gelbooru.com,NSFW
+HOST-SUFFIX,danbooru.donmai.us,NSFW
+HOST-SUFFIX,yande.re,NSFW
+HOST-SUFFIX,konachan.com,NSFW
+HOST-SUFFIX,sankakucomplex.com,NSFW
+HOST-SUFFIX,chan.sankakucomplex.com,NSFW
+HOST-SUFFIX,idol.sankakucomplex.com,NSFW
